@@ -1,24 +1,16 @@
 # my_web
 
-## Project setup
+## 添加所有文件到缓冲区
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+git add --all
 ```
 
-### Compiles and minifies for production
+## 提交
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+git commit -m "提交的说明"
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 查看git库的状态
+```
+git status 
+```
